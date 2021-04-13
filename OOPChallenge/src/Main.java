@@ -32,7 +32,7 @@ public class Main {
         hamburger.addHamburgerAdditionOne("Tomato", 0.27);
         hamburger.addHamburgerAdditionTwo("Lettuce", 0.75);
         hamburger.addHamburgerAdditionThree("Cheese", 1.12);
-        System.out.println("Total Burger price is " + hamburger.itemizeHamburger());
+        System.out.println("Total Burger price is" + hamburger.itemizeHamburger());
 
 
     }
